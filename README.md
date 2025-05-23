@@ -13,7 +13,7 @@ To analyze Diwali sales data and uncover insights about:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - Python 
 - Jupyter Notebook 
@@ -57,7 +57,7 @@ The dataset contains the following key features:
 
 ## Key Findings
 
-> 🎯 **Married Women aged 26–35 from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation are most likely to shop during Diwali.**
+> **Married Women aged 26–35 from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation are most likely to shop during Diwali.**
 
 > They prefer these product categories:
 > - Food & Beverages 
