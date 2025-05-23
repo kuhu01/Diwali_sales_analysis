@@ -45,7 +45,7 @@ The dataset contains the following key features:
    - Handled data type conversions
 
 2. **Exploratory Data Analysis (EDA)**  
-   - Count plots, bar plots, histograms, and pie charts for visual insights
+   - Count plots, bar plots for visual insights
 
 3. **Segment-wise Insights**  
    - Age vs Gender distribution
